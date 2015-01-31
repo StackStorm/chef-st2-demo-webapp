@@ -7,5 +7,5 @@ default['demo-webapp']['config'] = {
   logging:  "trace",
   listen:   "0.0.0.0",
   port:     8080
-  # license_key: 'somekey'
+  license_key: '9402b9da33e030eba250624549af6fb33191f9c3'
 }
